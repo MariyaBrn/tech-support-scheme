@@ -157,7 +157,6 @@
 ## 📎 Ссылки
 
 - [Исходник схемы (draw.io)](./tech-support-scheme.drawio)
-- [PDF-версия для печати](./tech-support-scheme.pdf)
 
 ---
 
